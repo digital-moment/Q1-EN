@@ -1,6 +1,6 @@
 # Discovering Artificial Intelligence
 
-![Image | University of Helsinki](./defining-ai.svg)
+![Image | University of Helsinki](defining-ai.svg)
 
 ## Daily Quiz
 
